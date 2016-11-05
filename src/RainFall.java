@@ -17,6 +17,8 @@ public class RainFall
             }
         }
         return highestMonth;
+
+        // test
     }
 
     public static String lowestRainFallMonth(String[] name,int[] rain,int lowestRain)
